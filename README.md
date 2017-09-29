@@ -1,2 +1,2 @@
 # DeeDawg's Sims 3 Career Studio
-A GUI application for crafting custom Sims 3 careers.
+A GUI application for crafting custom Sims 3 careers. Currently in active development, stay tuned.
